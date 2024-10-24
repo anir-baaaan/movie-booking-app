@@ -16,3 +16,10 @@ Me :)
 
 # What?
 Pure JAVA and packages which come with it. The big ones include java.io, java.swing, java.awt and some other stuff. Used Jetbrains IntelliJ Community for coding the thing and [Pixlr](https://pixlr.com/) for the minor graphic design as required. Used Google Slides for the Presentation and Git with GitHub for version control. For data management, JAVA filesystem was used as non-JAVA APIs were not allowed and the data was stored in txt files.
+
+# Howto Run
+Go to the root folder containing Main.java and run the following commands in the terminal
+```bash
+javac Main.java
+java Main
+```
