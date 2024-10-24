@@ -6,7 +6,7 @@ Probably won't maintain it but I have some stuff I want to change
 
 ### NOTE
 `WARNING:` Messy and Duct-taped code  
-`TODO:` Fix Cancel button
+`TODO:` Fix some stuff if possible
 
 # Why?
 School Project on creating apps in the JAVA ecosystem
