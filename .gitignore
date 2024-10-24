@@ -1,3 +1,15 @@
+### Non-Essential Data Files ###
+Seating/
+AccountsData/
+
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### GitHub Generated ###
 # Compiled class file
 *.class
 
